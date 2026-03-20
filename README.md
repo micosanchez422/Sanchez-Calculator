@@ -1,5 +1,4 @@
-# Sanchez-Calculator[index.html](https://github.com/user-attachments/files/26149415/index.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/26149415/index.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
